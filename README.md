@@ -5,3 +5,4 @@ A pasta esta organizado da seguinte maneira>
 
 - scripts = pasta com os jupyters notebooks
 - Dados = pasta com os dados dos jupyters
+- outputs = pasta com os outputs do jupyter
